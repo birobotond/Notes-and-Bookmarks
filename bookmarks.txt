@@ -1,0 +1,304 @@
+/** Celery */
+Google: "install package from repository"
+Google: "python celery producer example"
+Google: "python celery tutorial"
+Celery, Django: https://code.tutsplus.com/tutorials/using-celery-with-django-for-background-task-processing--cms-28732
+Celery, RabbitMQ, Django: http://knowpapa.com/django-celery-rabbitmq/
+Celery, RabbitMQ, Django: https://simpleisbetterthancomplex.com/tutorial/2017/08/20/how-to-use-celery-with-django.html
+Celery, RabbitMQ, Python: https://tests4geeks.com/python-celery-rabbitmq-tutorial/
+Celery, RabbitMQ: http://suzannewang.com/celery-rabbitmq-tutorial/
+Classy Tasks: http://iffm.me/classy-tasks-with-celery.html
+Docker: https://hub.docker.com/_/rabbitmq/
+Docker: https://medium.com/@tonywangcn/how-to-build-docker-cluster-with-celery-and-rabbitmq-in-10-minutes-13fc74d21730
+Documentation: http://docs.celeryproject.org/en/latest/getting-started/brokers/rabbitmq.html
+Documentation: http://docs.celeryproject.org/en/latest/getting-started/first-steps-with-celery.html
+Documentation: http://docs.celeryproject.org/en/latest/getting-started/introduction.html
+Documentation: http://docs.celeryproject.org/en/latest/getting-started/next-steps.html
+Documentation: http://docs.celeryproject.org/en/latest/reference/celery.html
+Documentation: http://docs.celeryproject.org/en/latest/userguide/periodic-tasks.html
+Documentation: https://github.com/szwang/celery-example/blob/master/server.py
+Documentation: https://stackoverflow.com/questions/19643774/separating-celery-consumer-and-producer
+Documentation: https://www.fullstackpython.com/celery.html
+github: https://github.com/celery/celery/tree/master/examples
+github: https://github.com/sibtc/django-celery-example/tree/master/mysite
+HAIRY CODE: https://hairycode.org/2013/07/23/first-steps-with-celery-how-to-not-trip/
+Installed packages: https://www.ostechnix.com/find-list-installed-repositories-commandline-linux/
+Installed packages: https://www.ostechnix.com/list-installed-packages-certain-repository-linux/
+Installing packages: https://blog.scottlowe.org/2014/02/10/installing-ubuntu-packages-from-a-specific-repository/
+Installing packages: https://www.ostechnix.com/install-packages-specific-repository-linux/
+Orchestration: https://www.toptal.com/python/orchestrating-celery-python-background-jobs
+python pika: https://pika.readthedocs.io/en/0.10.0/modules/spec.html
+Setup: http://www.celeryproject.org/install/
+Test: https://github.com/jimmykobe1171/celery-demo/tree/master/test_celery
+
+
+/** RabbitMQ */
+Control: http://www.rabbitmq.com/rabbitmqctl.8.html#delete_user
+Control: http://www.rabbitmq.com/access-control.html
+Control: https://www.rabbitmq.com/management-cli.html
+Control: https://www.rabbitmq.com/management.html
+Setup: https://www.rabbitmq.com/install-debian.html
+Setup: https://www.rabbitmq.com/networking.html
+Setup: https://www.rabbitmq.com/configure.html
+
+
+/** Mysql */
+Google: "find mysql bin log"
+Google: "my.cnf --binlog-row-event-max-size"
+Google: "mysql enable binary logging"
+Google: "mysql replication only new events"
+Google: "mysql set global binlog_format row"
+Google: "python binlogstreamreader not working"
+Google: "python BinLogStreamReader only events"
+Google: "python get mysql-bin index"
+Google: "python mysqlbinlog"
+Google: "python parse sql query"
+Google: "python read mysql binlog remotely"
+Google: "python read mysql binlog row format"
+Modeling: https://pureperformanceinc.wordpress.com/2009/03/13/managing-hierarchical-data-in-sql/
+MyRocks: http://myrocks.io/docs/getting-started/
+MySQL config: https://dev.mysql.com/doc/mysql-utilities/1.6/en/utils-task-change-log-bin.html
+MySQL config: https://stackoverflow.com/questions/2482234/how-to-know-mysql-my-cnf-location
+MySQL Configuration: https://github.com/jdaaaaaavid/mysql_best_configuration/blob/master/my.cnf
+MySQL Documentation: https://dev.mysql.com/doc/refman/5.6/en/replication-options-slave.html#option_mysqld_log-slave-updates
+MySQL Documentation: https://dev.mysql.com/doc/refman/5.7/en/show-binary-logs.html
+MySQL Documentation: https://www.percona.com/blog/2015/01/20/identifying-useful-information-mysql-row-based-binary-logs/
+MySQL Query Parsing: https://pypi.python.org/pypi/sqlparse
+MySQL Query Parsing: https://sqlparse.readthedocs.io/en/latest/intro/#getting-started
+MySQL Replication, python: http://python-mysql-replication.readthedocs.io/en/latest/_modules/pymysqlreplication/binlogstream.html
+MySQL Replication, python: http://python-mysql-replication.readthedocs.io/en/latest/events.html
+MySQL Replication, python: https://github.com/noplay/python-mysql-replication
+MySQL Replication, python: https://github.com/noplay/python-mysql-replication/issues/128
+MySQL Replication, python: https://github.com/noplay/python-mysql-replication/issues/217
+MySQL Replication, python: https://media.readthedocs.org/pdf/python-mysql-replication/latest/python-mysql-replication.pdf
+MySQL replication: http://code.activestate.com/recipes/577004-purge-mysql-binary-logs/
+MySQL Replication: http://remotemysqldba.blogspot.de/2014/04/optimized-row-based-replication-mysql.html
+MySQL Replication: http://www.tocker.ca/2014/05/26/faking-a-slave-subscribing-to-mysql-row-based-replication-changes.html
+MySQL Replication: https://bugs.mysql.com/bug.php?id=74728
+MySQL Replication: https://dba.stackexchange.com/questions/2678/how-do-i-show-the-binlog-format-on-a-mysql-server
+MySQL Replication: https://dba.stackexchange.com/questions/65273/how-do-i-make-binlog-format-row-the-start-up-default-in-the-etc-my-cnf-file
+MySQL Replication: https://dev.mysql.com/doc/internals/en/binlog-row-image.html
+MySQL Replication: https://dev.mysql.com/doc/mysql-replication-excerpt/5.7/en/replication-features-triggers.html
+MySQL Replication: https://dev.mysql.com/doc/refman/5.6/en/replication-options-binary-log.html
+MySQL Replication: https://dev.mysql.com/doc/refman/5.7/en/binary-log-setting.html
+MySQL Replication: https://dev.mysql.com/doc/refman/5.7/en/mysqlbinlog.html
+MySQL Replication: https://dev.mysql.com/doc/refman/5.7/en/replication-options-slave.html
+MySQL replication: https://github.com/noplay/python-mysql-replication/blob/master/pymysqlreplication/binlogstream.py
+MySQL Replication: https://github.com/noplay/python-mysql-replication/issues/209
+MySQL replication: https://jinyuwang.weebly.com/for-mysql/how-to-enable-binary-logging-for-mysql
+MySQL replication: https://serverfault.com/questions/706699/enable-binlog-in-mysql-on-ubuntu
+MySQL replication: https://www.bountysource.com/teams/python-mysql-replication/issues?tracker_ids=349479
+MySQL Replication: https://www.percona.com/blog/2014/10/08/mysql-replication-got-fatal-error-1236-causes-and-cures/
+MySQL Replication: https://www.percona.com/blog/2015/03/09/5-free-handy-tools-for-monitoring-and-managing-mysql-replication/
+MySQL, go: https://github.com/siddontang/go-mysql
+Replication errors: https://github.com/noplay/python-mysql-replication/issues/56
+Replication errors: https://github.com/noplay/python-mysql-replication/issues/207
+Streaming: https://engineeringblog.yelp.com/2016/08/streaming-mysql-tables-in-real-time-to-kafka.html
+
+
+/** Elasticsearch */
+Google: "elasticsearch "python"+"update" settings after create"
+Google: "elasticsearch exists nested"
+Google: "elasticsearch full text search"
+Google: "elasticsearch mapping api nested"
+Google: "elasticsearch multi match query in bool"
+Google: "elasticsearch python force merge index"
+Google: "elasticsearch refresh interval"
+Google: "elasticsearch.helpers.parallel bulk example"
+Google: "mapping nested objects elasticsearch"
+Google: "python elasticsearch bulk insert"
+Aggregation: https://coderwall.com/p/1axrrw/multiple-level-term-aggregation-in-elasticsearch
+Aggregation: https://discuss.elastic.co/t/significant-term-aggregation-on-nested-query/85392
+Aggregation: https://github.com/elastic/elasticsearch/issues/23674
+Architecture: http://blog.trifork.com/2016/12/22/handling-a-massive-amount-of-product-variations-with-elasticsearch/
+Architecture: https://abhishek376.wordpress.com/2014/11/24/how-we-optimized-100-sec-elasticsearch-queries-to-be-under-a-sub-second/
+Architecture: https://blog.discordapp.com/how-discord-indexes-billions-of-messages-e3d5e9be866f
+Architecture: https://bonsai.io/2016/01/11/ideal-elasticsearch-cluster
+Architecture: https://logz.io/blog/10-elasticsearch-concepts/
+Architecture: https://stackoverflow.com/questions/12360634/how-to-reduce-number-of-segments-in-elasticsearch-index
+Architecture: https://thoughts.t37.net/how-we-reindexed-36-billions-documents-in-5-days-within-the-same-elasticsearch-cluster-cd9c054d1db8
+Architecture: https://www.datadoghq.com/blog/elasticsearch-performance-scaling-problems/
+Architecture: https://www.elastic.co/blog/hot-warm-architecture-in-elasticsearch-5-x
+Book: https://github.com/PacktPublishing/Mastering-Elasticsearch-5.x-Third-Edition
+Caching: https://www.elastic.co/guide/en/elasticsearch/reference/2.3/caching-heavy-aggregations.html
+Classification: https://www.elastic.co/blog/text-classification-made-easy-with-elasticsearch
+CLI: https://clementc.github.io/blog/2018/01/25/moving_cli/
+Deep: http://www.usyiyi.cn/translate/elasticsearch/search-request-search-after.html
+Deep: https://blog.insightdatascience.com/anatomy-of-an-elasticsearch-cluster-part-iii-8bb6ac84488d
+Deep: https://dzone.com/articles/deep-paging-problem
+Deep: https://qbox.io/blog/efficient-search-fetch-large-datasets-elasticsearch-scroll-api
+Deep: https://rimdev.io/elasticsearch-sinking-in-deep-paging-quicksand/
+Deep: https://solr.pl/en/2011/07/18/deep-paging-problem/
+Deep: https://www.elastic.co/guide/en/elasticsearch/guide/current/pagination.html
+Deep: https://www.elastic.co/guide/en/elasticsearch/guide/current/scroll.html#scroll
+Docker: https://www.elastic.co/guide/en/elasticsearch/reference/current/docker.html
+Documents: http://elastica.io/getting-started/search-documents.html
+Elasticdump: https://www.npmjs.com/package/elasticdump
+Elasticsearch Symfony: https://www.slideshare.net/symfonymu/elastic-search-and-symfony3-a-practical-approch
+Exploit: https://github.com/XiphosResearch/exploits/blob/master/ElasticSearch/elastic_shell.py
+Indexing: http://www.bogotobogo.com/Hadoop/ELK/ELK_Elastic_Search_Tutorial_Indexing_Performance.php
+Indexing: https://discuss.elastic.co/t/helpers-parallel-bulk-in-python-not-working/39498
+Indexing: https://discuss.elastic.co/t/why-the-bulk-api-python-has-low-efficiency-in-this-way/69970
+Indexing: https://dzone.com/articles/elasticsearch-bulk-indexing-with-spring
+Indexing: https://github.com/elastic/elasticsearch-py/issues/297
+Indexing: https://sematext.com/blog/elasticsearch-refresh-interval-vs-indexing-performance/
+Indexing: https://stackoverflow.com/questions/20288770/how-to-use-bulk-api-to-store-the-keywords-in-es-by-using-python
+Indexing: https://www.elastic.co/guide/en/elasticsearch/guide/current/index-aliases.html
+Indexing: https://www.elastic.co/guide/en/elasticsearch/guide/current/reindex.html
+Indexing: https://www.elastic.co/guide/en/elasticsearch/reference/2.3/indices-forcemerge.html
+Indexing: https://www.elastic.co/guide/en/elasticsearch/reference/current/tune-for-indexing-speed.html
+Mapping: http://queirozf.com/entries/elasticsearch-mappings-examples-on-how-to-create-edit-remove
+Mapping: https://stackoverflow.com/questions/31635828/python-elasticsearch-client-set-mappings-during-create-index
+Mapping: https://www.elastic.co/guide/en/elasticsearch/guide/master/nested-mapping.html
+Mapping: https://www.elastic.co/guide/en/elasticsearch/reference/current/indices-put-mapping.html
+Mapping: https://www.techqa.org/elasticsearch-mapping-and-index-nested-array-object-with-java-api/
+Modeling: https://www.elastic.co/guide/en/elasticsearch/guide/current/denormalization-concurrency.html
+Modeling: https://www.elastic.co/guide/en/elasticsearch/guide/current/modeling-your-data.html
+Modeling: https://www.elastic.co/guide/en/elasticsearch/guide/current/shared-index.html
+Multiple Indexing: https://www.elastic.co/guide/en/elasticsearch/guide/current/multiple-indices.html
+Parent Child: https://www.spacevatican.org/2012/6/3/fun-with-elasticsearch-s-children-and-nested-documents/
+Partial Update: https://discuss.elastic.co/t/partial-update-to-a-document-with-java-api/22511/2
+Put Mapping: https://www.elastic.co/guide/en/elasticsearch/reference/5.4/indices-put-mapping.html
+PyElastic: https://media.readthedocs.org/pdf/pyelasticsearch/latest/pyelasticsearch.pdf
+Python api: http://elasticsearch-py.readthedocs.io/en/master/helpers.html
+python api: https://www.elastic.co/guide/en/elasticsearch/client/python-api/current/index.html
+python: https://github.com/elastic/elasticsearch-dsl-py/tree/master/elasticsearch_dsl
+python: https://stackoverflow.com/questions/19758335/error-when-trying-to-update-the-settings
+python: https://stackoverflow.com/questions/27242679/elastic-search-settings-add-in-python-module
+Query: https://discuss.elastic.co/t/exact-search-not-working-with-nested-multi-field/1764
+Query: https://dzone.com/articles/23-useful-elasticsearch-example-queries
+Query: https://elasticsearch-dsl.readthedocs.io/en/latest/search_dsl.html
+Query: https://qbox.io/blog/elasticsearch-queries-match-phrase-match
+Query: https://stackoverflow.com/questions/8829468/elasticsearch-query-to-return-all-records
+Query: https://stackoverflow.com/questions/22830492/mixing-bool-and-multi-match-function-score-query
+Query: https://stackoverflow.com/questions/30308817/elastic-search-mapping-for-nested-json-objects
+Query: https://stackoverflow.com/questions/36620364/elasticsearch-full-text-search-on-nested-fields
+Query: https://stackoverflow.com/questions/41491982/elastic-exists-query-for-nested-documents
+Query: https://stackoverflow.com/questions/43786513/elasticsearch-how-to-use-dismax-query-with-filter
+Query: https://www.elastic.co/guide/en/elasticsearch/guide/2.x/_best_fields.html
+Query: https://www.elastic.co/guide/en/elasticsearch/reference/5.6/nested.html
+Query: https://www.elastic.co/guide/en/elasticsearch/reference/5.6/query-dsl-multi-match-query.html
+Query: https://www.elastic.co/guide/en/elasticsearch/reference/current/full-text-queries.html
+Query: https://www.elastic.co/guide/en/elasticsearch/reference/current/query-dsl-nested-query.html
+Relations: https://www.elastic.co/blog/managing-relations-inside-elasticsearch
+Relations: https://www.elastic.co/guide/en/elasticsearch/guide/2.x/relations.html
+Scroll: https://hackernoon.com/parallel-scan-scroll-an-elasticsearch-index-db02583d10d1
+Set Mapping: https://stackoverflow.com/questions/25471715/create-or-update-mapping-in-elasticsearch
+Shards: https://www.elastic.co/guide/en/elasticsearch/reference/2.3/search-shards.html
+Tuning: https://docs.microsoft.com/en-us/azure/architecture/elasticsearch/data-aggregation-and-query-performance
+Tuning: https://www.elastic.co/blog/found-optimizing-elasticsearch-searches
+Tuning: https://www.elastic.co/blog/understanding-query-then-fetch-vs-dfs-query-then-fetch
+Tuning: https://www.elastic.co/guide/en/elasticsearch/guide/current/relevance-is-broken.html
+Update: https://gist.github.com/nicolashery/6317643
+Update: https://www.elastic.co/blog/changing-mapping-with-zero-downtime
+Update: https://www.elastic.co/guide/en/elasticsearch/reference/current/docs-update.html
+Update: https://www.elastic.co/guide/en/elasticsearch/reference/current/indices-update-settings.html
+
+
+/** Management */
+Conference: https://conferences.oreilly.com/software-architecture/sa-eu?cmp=fb-prog-confreg-home-saeu17_rtt_fb
+Estimation: https://8thlight.com/blog/bjorn-johnson/2016/11/29/making-large-projects-manageable.html
+
+
+/** Machine Learning */
+Analysis: https://github.com/benbalter/Frequency-Analysis/blob/master/frequency-analysis.php
+Deep: https://github.com/Spandan-Madan/DeepLearningProject
+
+
+/** PHP */
+Google: "twig {% set content %}"
+Migration: https://www.roguewave.com/events/webinars/ask-the-php-experts-performance-migrations
+Packagist: https://packagist.org/
+Twig: https://twig.symfony.com/doc/2.x/recipes.html
+Twig: https://twig.symfony.com/doc/2.x/tags/set.html
+
+
+/** Javascript */
+Google: "react render ul li"
+Google: "react table in table bad practice"
+REACT: https://reactjs.org/blog/2017/09/26/react-v16.0.html
+REACT: https://stackoverflow.com/questions/28329382/understanding-unique-keys-for-array-children-in-react-js
+REACT: https://reactjs.org/docs/lists-and-keys.html
+REACT: https://www.menubar.io/reactjs-tables/
+REACT: https://gitter.im/searchkit/searchkit/archives/2016/04/18
+
+
+/** CSS */
+Google: "css plus sign shape"
+Shapes: https://css-tricks.com/examples/ShapesOfCSS/
+
+
+/** Symfony */
+Bundle: https://www.sitepoint.com/understanding-symfony-bundle-configuration-service-container/
+
+
+/** Data */
+Google: "Each child in an array or iterator should have a unique "key" prop."
+Google: "php "dirichlet" similarity"
+API: https://dzone.com/articles/api-design-maturity-at-capital-one
+Curated: https://github.com/onurakpolat/awesome-bigdata
+Modeling: https://dzone.com/articles/nesting-and-unnesting-in-couchbase-n1ql
+NLP: http://php-nlp-tools.com/
+NLP: http://php-nlp-tools.com/documentation/api/#NlpTools/Similarity/CosineSimilarity
+python: https://github.com/luispedro/BuildingMachineLearningSystemsWithPython
+Retrieval: https://github.com/ShivikaSodhi/Information-Retrieval
+Similarity: http://opensourceconnections.com/blog/2015/10/16/bm25-the-next-generation-of-lucene-relevation/
+Similarity: http://www.jmlr.org/papers/v3/blei03a.html
+Similarity: https://ai.stackexchange.com/questions/4965/sentence-similarity-in-python
+Similarity: https://berlinbuzzwords.de/sites/berlinbuzzwords.de/files/media/documents/bm25_buzzwords_britta_weber.pdf
+Similarity: https://datascience.stackexchange.com/questions/25053/best-practical-algorithm-for-sentence-similarity
+Similarity: https://github.com/ShivikaSodhi/Information-Retrieval/blob/master/compute_cosine_rank.php
+Similarity: https://gitlab.com/mysilver/semantic-text-similarity/tree/master/src/main
+Similarity: https://learning.acm.org/webinar/index.cfm
+Similarity: https://nlp.stanford.edu/IR-book/html/htmledition/okapi-bm25-a-non-binary-model-1.html
+Similarity: https://sites.temple.edu/tudsc/2017/03/30/measuring-similarity-between-texts-in-python/
+Similarity: https://spacy.io/usage/vectors-similarity
+Similarity: https://www.elastic.co/guide/en/elasticsearch/reference/current/index-modules-similarity.html
+
+
+/** Python */
+Google: "best github project python worker threadpool"
+Google: "multithread vs multiprocess"
+Google: "python create and execute worker thread pool e"
+Google: "use python shared db read connections or individual"
+Asyncio: http://masnun.rocks/2016/10/06/async-python-the-different-forms-of-concurrency/
+Asyncio: https://docs.python.org/3/library/asyncio.html
+Asyncio: https://medium.freecodecamp.org/a-guide-to-asynchronous-programming-in-python-with-asyncio-232e2afa44f6
+Asyncio: https://www.curiousefficiency.org/posts/2015/07/asyncio-background-calls.html
+Curated: https://awesome-python.com/
+MySQL: https://dev.mysql.com/doc/connector-python/en/connector-python-connection-pooling.html
+Packaging: https://glyph.twistedmatrix.com/2016/08/python-packaging.html
+Packaging: https://python-guide.readthedocs.io/en/latest/dev/virtualenvs/#virtualenv
+Packaging: https://stackoverflow.com/questions/43828879/simple-dependency-management-for-a-python-project
+Packaging: https://www.fullstackpython.com/application-dependencies.html
+Threading: http://code.activestate.com/recipes/577187-python-thread-pool/
+Threading: https://docs.python.org/3/library/multiprocessing.html
+Threading: https://docs.python.org/3/library/threading.html
+Threading: https://github.com/ssundarraj/py-threadpool
+Threading: https://hackernoon.com/threaded-asynchronous-magic-and-how-to-wield-it-bba9ed602c32
+Threading: https://pymotw.com/3/asyncio/executors.html
+Threading: https://stackoverflow.com/questions/2905965/creating-threads-in-python
+Threading: https://stackoverflow.com/questions/3033952/threading-pool-similar-to-the-multiprocessing-pool
+Threading: https://stackoverflow.com/questions/3044580/multiprocessing-vs-threading-python
+Threading: https://stackoverflow.com/questions/28638939/python3-x-how-to-share-a-database-connection-between-processes
+Threading: https://stackoverflow.com/questions/42607492/usage-of-threading-timer-with-async-based-functions
+Threading: https://www.metachris.com/2016/04/python-threadpool/
+Threading: https://www.toptal.com/python/beginners-guide-to-concurrency-and-parallelism-in-python
+Time: https://docs.python.org/3/library/time.html
+
+
+/** Misc */ 
+carrot2: http://doc.carrot2.org/
+carrot2: https://project.carrot2.org/
+DREMIO: https://docs.dremio.com/drivers/dremio-connector.html
+HOVERBOARD: https://github.com/gdg-x/hoverboard
+HyperLogLog: http://static.googleusercontent.com/media/research.google.com/fr//pubs/archive/40671.pdf
+HyperLogLog: https://github.com/mrjgreen/HyperLogLog
+HyperLogLog: https://github.com/shabbyrobe/phphll
+MAPT: https://mapt.io/
+
+
+
+
+
+
